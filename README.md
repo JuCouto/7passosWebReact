@@ -7,5 +7,6 @@ Utilizamos a API de e-commerce e fizemos melhorias para adequação ao front cri
 
 * Paginação.
 * Query para pesquisa de produtos.
+* Login com autenticação JWT.
 
 PDF com a descrição da atividade proposta.
